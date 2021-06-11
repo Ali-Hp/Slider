@@ -1,0 +1,5 @@
+@media(max-width:767px) {
+    .img .boxImage section h1 {
+        font-size: 25px;
+    }
+}
